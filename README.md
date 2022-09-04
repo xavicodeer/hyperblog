@@ -1,3 +1,4 @@
-# hyperblog
-Un blog increíble para el Curso Profesional de Git y GitHub en Platzi
-aca voy a dejar "Leo estuvo aqui"   03-09-2022
+# Hyperblog
+> Un blog increíble para el Curso Profesional de Git y GitHub en Platzi
+
+Este README.md fue creado con [Edirtor.md](https://pandao.github.io/editor.md/en.html "Edirtor.md") 
