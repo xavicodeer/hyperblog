@@ -5,3 +5,4 @@ Este README.md fue creado con [Edirtor.md](https://pandao.github.io/editor.md/en
 
 * creado por el increible Platzi Team
 * incluye ejemplos en Windows, Linux y Mac
+* disponible para todas las edades
